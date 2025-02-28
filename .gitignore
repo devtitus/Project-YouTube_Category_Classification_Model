@@ -1,4 +1,4 @@
 cvenv
 results
-tinybert_model
 __pycache__
+distilbert-base-uncased
